@@ -3,4 +3,4 @@ This project aims at classifying the digits in the MNIST dataset into two catego
 
 # Example
 
-<img src="example.jpg" width=200>
+<img src="example.PNG" width=500>
