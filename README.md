@@ -3,7 +3,8 @@ This project aims at classifying the digits in the MNIST dataset into two catego
 
 # Software
 * The analysis and implementation has been done using Python 3.6 version.
-* 
+* The versions of the external libraries used are as mentioned below:
+  * 
 
 # Example
 
